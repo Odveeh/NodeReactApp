@@ -13,7 +13,7 @@ In this website you can search for a PUBG player's ingame statistics by
 writing their ingame nickname inside the search bar and clicking search. 
 
 The front-end sends the nickname written in the search bar to the backend. The backend
-makes a PUBG API request with the given nickname. The backend server waits for the PUBG API result and then
+makes a PUBG API request with the given nickname. The backend server waits for the PUBG API response and then
 does some data parsing and sends the result back to the front-end in JSON format. The front-end displays
 the result by showing player's statistics, or by informing that statistics couldn't be found (No player match for nickname or
 no recent matches played).
