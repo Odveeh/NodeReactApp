@@ -1,11 +1,11 @@
 # NodeReactApp
 
-Demo video of the app: 
+**Demo video of the app:** 
 
 https://www.youtube.com/watch?v=UUqcNJLeizc
 
 
-How the app works:
+**How the app works:**
 
 In this website you can search for a PUBG player's ingame statistics by 
 writing their ingame nickname inside the search bar and clicking search. 
@@ -20,7 +20,7 @@ This app was made solely for learning purposes and has a lot of things to improv
 create-react-app and it was my first time using React. I also still have a lot to learn about backend programming.
 
 
-Setting up and running the project:
+**Setting up and running the project:**
 
 1. Install Node modules for /backend and /myapp
 2. To start the backend, run /Backend/app.js file with "node app.js"
