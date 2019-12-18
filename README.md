@@ -1,12 +1,5 @@
 # NodeReactApp
 
-
-Setting up and running the project:
-
-1. Install Node modules for /backend and /myapp
-2. To start the backend, run /Backend/app.js file with "node app.js"
-3. To start the React front-end, run "npm start" command in /my-app folder
-
 How the app works:
 
 In this website you can search for a PUBG player's ingame statistics by 
@@ -20,6 +13,13 @@ no recent matches played).
 
 This app was made solely for learning purposes and has a lot of things to improve on. The website was made with
 create-react-app and it was my first time using React. I also still have a lot to learn about backend programming.
+
+
+Setting up and running the project:
+
+1. Install Node modules for /backend and /myapp
+2. To start the backend, run /Backend/app.js file with "node app.js"
+3. To start the React front-end, run "npm start" command in /my-app folder
 
 
 
